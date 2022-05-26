@@ -1,6 +1,9 @@
 # Hosting bigwig files to visualize on UCSC
-## How to host a bigwig file to visualize on UCSC
+### How to host a bigwig file to visualize on UCSC
 You can host bigWig files on github for free and visualize on UCSC. You just need to alter the URL slightly before loading as a custom track.
+
+First create a new repository on github. (Github desktop is easy to use!)
+Then add the bigwig files and commit to main.
 
 Original URL looks like this:
 ```sh
